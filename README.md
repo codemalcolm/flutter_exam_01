@@ -1,3 +1,3 @@
 # flutter_exam_01
 
-A new Flutter project.
+1st exam for university
